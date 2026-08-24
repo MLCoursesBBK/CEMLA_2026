@@ -8,9 +8,7 @@ Repository for the Online Sessions
 
 ## Interactive Notebooks
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/CEMLA_2026/blob/main/Interpretability_Explainability.ipynb) Interpretability and Explainability
-
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/CEMLA_2026/blob/main/Causal_Inference.ipynb) Causal Inference
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/CEMLA_2026/blob/main/Causal%20ML_Explainability.ipynb) Causal ML and Explainability
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MLCoursesBBK/CEMLA_2026/blob/main/Anomaly_Detection.ipynb) Anomaly Detection
   
